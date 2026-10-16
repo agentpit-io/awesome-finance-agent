@@ -11,6 +11,7 @@ A curated list of MCP servers, agent skills, and tools for financial research.
 - [Datasets](#datasets)
 
 ## Data Sources
+- **[Money Reactor](https://github.com/makar52nn2016-jpg/money-reactor)** - Funded crypto bounty radar (escrow-backed Base USDC + GitHub radar, trust-filtered) + honeypot trust scoring; x402 paid API & MCP with free demo.
 
 | Name | Coverage | Auth | Notes |
 |---|---|---|---|
